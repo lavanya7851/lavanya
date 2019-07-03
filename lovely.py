@@ -1,8 +1,9 @@
-     s=input()
-     s=s.lower()
-     if s in['a','e','i','o','u']:
-     print("vowel")
-     elif ord(c) in range(97,123)
-     print("consonant")
-     else:
-     print("Invalid")
+    s=input()
+if(a>="a" and a<="z"):
+l=["a","e","i","o","u"]
+if a in l:
+  print("vowel")
+else:
+  print("consonant")
+else:    
+    print("Invalid")

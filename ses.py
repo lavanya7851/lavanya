@@ -1,4 +1,4 @@
-x=int(input("enter the number"))
+x=int(input("enter the number:"))
 a=1
 while(X>0):
 a=a*x

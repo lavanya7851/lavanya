@@ -1,0 +1,2 @@
+lavstr = input()
+print( lavstr + '.')

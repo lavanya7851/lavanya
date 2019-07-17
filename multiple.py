@@ -8,5 +8,5 @@ def multiple(x, y):
   
 # driver code  
 x = 5
-y = 7
+y = 3
 multiple(x, y) 
